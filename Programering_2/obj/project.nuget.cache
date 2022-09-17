@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFTRXUJ26yJoocetznkNwNPmEgSw2Q5JHZM6zOfp5fxTAwTkswp1/zl6Kb4JO5M0NhSmsAD1onB1MuUhFQJ6GA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ninro\\Prog2\\Programering_2\\Programering_2\\Programering_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ninro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
